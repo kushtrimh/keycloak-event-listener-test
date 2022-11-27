@@ -17,4 +17,4 @@ Create the `jar` file by using `mvn clean package`, and put the `jar` file at yo
 
 ## Setup
 
-Create a group called `admins`, and configure the SMTP settings. That's all :).
+Create a group called `admins`, add the created event listener, and configure the SMTP settings. That's all :).
